@@ -270,3 +270,6 @@ claude/
 
 .venv/
 .deepeval/
+.codex
+.claude
+.gitignore
